@@ -7,7 +7,7 @@
 
 Thanks for visiting my GitHub account!
 
-ace Recognition refers to the technology capable of identifying or verifying a subject through an image, video, or any audiovisual element of his face. Generally, this identification is used to access an application, system, or service and it works like a face scanner.
+**Face Recognition** refers to the technology capable of identifying or verifying a subject through an image, video, or any audiovisual element of his face. Generally, this identification is used to access an application, system, or service and it works like a face scanner.
 
 Because computerized facial recognition involves the measurement of a human's physiological
 characteristics, facial recognition systems are categorized as biometrics. Although the accuracy of facial recognition systems as a biometric technology is lower than iris recognition, fingerprint image acquisition, palm recognition or voice recognition, it is widely adopted due to its contactless process [see-more](https://www.nzfaruqui.com/face-recognition-using-matlab/)
